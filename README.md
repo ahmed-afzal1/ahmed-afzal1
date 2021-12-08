@@ -13,7 +13,7 @@ I am a developer who is passionate about web software developing. Few tech that 
  
 [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">]
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/afzal.ahaammed/) 
-[![Visits Badge](https://badges.pufler.dev/visits/ahmed-afzal1?style=for-the-badge)](https://github.com/ahmed-afzal1)
+[![Visits Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-afzal1)
 
 </p>
 
