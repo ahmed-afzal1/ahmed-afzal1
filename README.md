@@ -1,6 +1,6 @@
 ## Hi 👋 I am Ahammed Afzal! 
 
-I am a developer who is passionate about web software developing. Few tech that I enjoy working in are PHP, Javascript. I am actively looking for opportunities in software engineering industry. Recently, I have just started with a job in IT firm
+I am a developer who is passionate about web software developing. Currently I am working in GeniusOcean.
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in PHP, Javascript coding, data structures and algorithms.
 - 🤝 Open for collaborations in php community.
