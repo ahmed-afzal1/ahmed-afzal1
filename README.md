@@ -1,8 +1,8 @@
 ## Hi 👋 I am Ahammed Afzal! 
 
-I am a developer who is passionate about web software developing. Currently I am working in GeniusOcean.
+I am a developer who is passionate about web software developing. Currently I am working in Softic.
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in PHP, Javascript coding, data structures and algorithms.
+- 👨🏽‍💻 Currently working, learning and growing my skillset in PHP, Java, Go, Pythone, Javascript coding, data structures and algorithms.
 - 🤝 Open for collaborations in php community.
 - 😊 Willing to contribute in opensource development projects.
 
